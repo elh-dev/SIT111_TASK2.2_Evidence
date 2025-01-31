@@ -1,6 +1,6 @@
 # Define the questions and answers
 $questions = @{
-    "What is my name" = @("Edward", "Edward Healy", "elh-dev")
+    "What is my name" = @("Ed", "elh-dev")
     "Are dragons cool" = @("yes", "stupid question")
     
 }
